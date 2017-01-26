@@ -1,0 +1,6 @@
+C:\Users\M\documents\visual studio 2015\Projects\Data Type And Variables\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe.config
+C:\Users\M\documents\visual studio 2015\Projects\Data Type And Variables\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.exe
+C:\Users\M\documents\visual studio 2015\Projects\Data Type And Variables\14. Integer to Hex and Binary\bin\Debug\_14.Integer_to_Hex_and_Binary.pdb
+C:\Users\M\documents\visual studio 2015\Projects\Data Type And Variables\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.exe
+C:\Users\M\documents\visual studio 2015\Projects\Data Type And Variables\14. Integer to Hex and Binary\obj\Debug\_14.Integer_to_Hex_and_Binary.pdb
+C:\Users\M\documents\visual studio 2015\Projects\Data Type And Variables\14. Integer to Hex and Binary\obj\Debug\14. Integer to Hex and Binary.csprojResolveAssemblyReference.cache

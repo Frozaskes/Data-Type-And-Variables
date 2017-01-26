@@ -1,0 +1,5 @@
+C:\Users\M\Documents\Visual Studio 2015\Projects\Data Type And Variables\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+C:\Users\M\Documents\Visual Studio 2015\Projects\Data Type And Variables\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\M\Documents\Visual Studio 2015\Projects\Data Type And Variables\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+C:\Users\M\Documents\Visual Studio 2015\Projects\Data Type And Variables\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\M\Documents\Visual Studio 2015\Projects\Data Type And Variables\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

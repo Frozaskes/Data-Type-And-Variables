@@ -1,0 +1,1 @@
+C:\Users\M\Documents\Visual Studio 2015\Projects\Data Type And Variables\03. Practice Chars And Strings\bin\Debug\_03.Practice_Chars_And_Strings.exe.config
